@@ -1,0 +1,6 @@
+{
+    "project_name": "online_shop",
+    "repo_name": "{{ cookiecutter.project_name.lower().replace(' ', '_') }}",
+    "token": "token",
+    "author": "Anonymous"
+  }
